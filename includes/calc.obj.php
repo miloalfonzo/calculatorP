@@ -33,17 +33,17 @@
             <div class="col-md-8 a">
                 <div class="card">  
                     <div class="card-body">
-                        <h2 class="resultado"> El resultado es: <?php  echo $calculadora->calcular(); ?> </h2>
-                           
+                    <h2 class="resultado"> El resultado es: <?php  echo $calculadora->calcular(); ?> </h2>   
                 </div>
-                <a href="../index.php" class="btn btn-danger"> Regresar </button>   
+                    <a href="../index.php"> Regresar </button>  
+                </div>
             </div>
         </div>
         </div>
 
         </body>
         </html>
-        '
+        
         
 
 
